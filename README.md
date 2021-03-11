@@ -1,1 +1,4 @@
-# jenkins-class-repo1
+echo "this is test date"
+date
+cal
+echo "bye"
